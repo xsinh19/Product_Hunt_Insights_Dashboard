@@ -37,7 +37,7 @@ Build a script to extract insights from [Product Hunt](https://producthunt.com),
 
 ## Live Demo
 
-👉 [Click here to try the dashboard]([https://your-deployed-link.streamlit.app](https://appucthuntinsightsdashboard-7ql9g9cmfnnbkdkwftdrkr.streamlit.app/))
+👉 [Click here to try the dashboard]([[https://your-deployed-link.streamlit.app](https://appucthuntinsightsdashboard-7ql9g9cmfnnbkdkwftdrkr.streamlit.app/)](https://appucthuntinsightsdashboard-7ql9g9cmfnnbkdkwftdrkr.streamlit.app/))
 
 ## Author
 
