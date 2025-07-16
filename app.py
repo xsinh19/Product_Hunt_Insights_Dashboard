@@ -5,7 +5,7 @@ import requests
 st.set_page_config(page_title="Product Hunt Dashboard", layout="wide")
 st.title("Trending Product Hunt Insights")
 
-token = st.text_input("🔑 Enter your Product Hunt Developer Token", type="password")
+token = "1v3uOw5OtUb-nMgFnLuJOuylAiP-kJ0wtN-n8k_QOhs"
 
 if token:
     query = """
