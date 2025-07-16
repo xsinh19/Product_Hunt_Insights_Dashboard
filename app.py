@@ -75,6 +75,11 @@ if token:
         from wordcloud import WordCloud
         import matplotlib.pyplot as plt
         from collections import Counter
+        try:
+            nltk.data.find("corpora/stopwords")
+        except LookupError:
+            nltk.download("stopwords")
+
 
         nltk.download("stopwords")
         stopwords = set(nltk.corpus.stopwords.words("english"))
